@@ -166,6 +166,7 @@ import img8 from "../assets/img8.jpg";
 import img9 from "../assets/img9.jpg";
 import img10 from "../assets/img10.jpg";
 import img11 from "../assets/img11.jpg";
+import img12 from "../assets/img12.jpg";
 import circle from "../assets/circle.svg";
 import dashcircle from "../assets/dashcircle.svg";
 import { ref, computed } from "vue";
@@ -268,6 +269,15 @@ const items = ref([
     description:
       "Cube Games Store Design, inspired by Steam, created by me using Figma.",
     live: "https://dribbble.com/shots/20223215-Cube-Game-Store-Design",
+  },
+  {
+    img: img12,
+    alt: "img12",
+    title: "Intro Section Page",
+    technologies: "Vue, Tailwind",
+    description:
+      "Intro Section Hero that showcases responsive design across various screen sizes, slicing design from a frontend mentor.",
+    live: "https://intro-section-hero.netlify.app/",
   },
   {
     img: img2,
