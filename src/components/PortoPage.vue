@@ -167,6 +167,7 @@ import img9 from "../assets/img9.jpg";
 import img10 from "../assets/img10.jpg";
 import img11 from "../assets/img11.jpg";
 import img12 from "../assets/img12.jpg";
+import img13 from "../assets/img13.jpg";
 import circle from "../assets/circle.svg";
 import dashcircle from "../assets/dashcircle.svg";
 import { ref, computed } from "vue";
@@ -196,6 +197,16 @@ function goToPreviousPage() {
 }
 const items = ref([
   {
+    img: img13,
+    alt: "img13",
+    title: "Suxz Landing Page",
+    technologies: "Vue, Tailwind",
+    description:
+      "Suxz landing pages a page that aims to offer online course classes with a stunning blend of two colors white and purple.",
+
+    live: "https://suxz-landing-pages.vercel.app/",
+  },
+  {
     img: img1,
     alt: "img1",
     title: "Crowdfunding Page",
@@ -204,16 +215,6 @@ const items = ref([
       "Crowdfunding landing page where users can enter the desired funding amount from the available funding tiers listed.",
 
     live: "https://fund-product-page.netlify.app/",
-  },
-
-  {
-    img: img3,
-    alt: "img3",
-    title: "Fylo Landing Page",
-    technologies: "Tailwind, JS",
-    description:
-      "The Fylo dark landing page,features a dark mode theme designed to provide users with comfortable viewing experience.",
-    live: "https://my-dark-fylo-landing-page.netlify.app/",
   },
   {
     img: img10,
@@ -224,6 +225,16 @@ const items = ref([
       "Study case Implementing UI design from into a real interface using Vue 3 and Tailwind",
     live: "https://my-sneakers-app.netlify.app/",
   },
+  {
+    img: img3,
+    alt: "img3",
+    title: "Fylo Landing Page",
+    technologies: "Tailwind, JS",
+    description:
+      "The Fylo dark landing page,features a dark mode theme designed to provide users with comfortable viewing experience.",
+    live: "https://my-dark-fylo-landing-page.netlify.app/",
+  },
+
   {
     img: img4,
     alt: "img4",
