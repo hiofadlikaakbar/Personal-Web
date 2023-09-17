@@ -9,7 +9,7 @@
       <img
         :src="dot1"
         alt="dot"
-        class="xl:scale-[.65] 2xl:-top-24 relative -top-24 xl:-top-16 scale-50 -ml-5 xl:-ml-2"
+        class="xl:scale-[.61] 2xl:-top-24 relative -top-24 xl:-top-16 scale-50 -ml-5 xl:-ml-2"
       />
     </div>
     <div
@@ -30,20 +30,20 @@
       data-aos-duration="500"
       :src="dashcircle"
       alt="dashcircle"
-      class="absolute -right-20 hidden md:block -bottom-[60rem] lg:-bottom-[80rem] 2xl:-bottom-[50rem] 2xl:scale-150"
+      class="absolute -right-20 hidden md:block -bottom-[60rem] lg:-bottom-[65rem] 2xl:-bottom-[70rem] 2xl:scale-150"
     />
   </div>
   <div
     data-aos="fade-up"
     data-aos-delay="300"
-    data-aos-offset="580"
+    data-aos-offset="570"
     data-aos-duration="800"
     id="portfolio"
     class="pb-10 -mt-28 xl:-mt-5 2xl:-mt-36"
   >
-    <div class="container mx-auto">
+    <div class="container mx-auto 2xl:mt-14">
       <div
-        class="flex-col md:flex-row lg:flex items-center xl:px-10 2xl:px-5 justify-between mb-14 lg:mb-0"
+        class="flex-col md:flex-row lg:flex items-center xl:px-10 2xl:px-14 justify-between mb-14 lg:mb-0"
       >
         <div class="text-center lg:text-left px-5 xl:px-0 mb-12">
           <h1
@@ -93,9 +93,9 @@
         data-aos="fade-up"
         data-aos-delay="500"
         data-aos-duration="1000"
-        data-aos-offset="680"
+        data-aos-offset="550"
         data-aos-easing="ease-in-out"
-        class="flex flex-wrap px-5 2xl:px-0 items-center justify-center mb-8"
+        class="flex flex-wrap px-5 xl:px-10 2xl:px-12 items-center justify-center mb-8"
       >
         <div
           v-for="(item, index) in displayedItems"

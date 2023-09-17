@@ -5,7 +5,7 @@
         'bg-secondary/75 shadow-lg': isScrolled,
         'bg-transparent': !isScrolled,
       }"
-      class="p-6 w-full fixed z-50"
+      class="px-6 xl:px-14 py-6 w-full fixed z-50"
       style="transition: background-color 0.3s ease-in-out"
     >
       <div class="flex justify-between container mx-auto items-center">

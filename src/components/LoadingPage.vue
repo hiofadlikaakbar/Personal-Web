@@ -3,7 +3,7 @@
     <div class="flex justify-center items-center h-screen">
       <div>
         <h1
-          class="font-nunitosans font-semibold text-center text-lg text-ghost mb-1"
+          class="font-nunitosans font-semibold text-center text-xl text-ghost mb-2"
         >
           Please Wait...
         </h1>
@@ -14,5 +14,5 @@
 </template>
 
 <script setup>
-import gif from "../assets/8bit.gif";
+import gif from "../assets/nari rat.gif";
 </script>

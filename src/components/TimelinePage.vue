@@ -6,7 +6,7 @@
           data-aos="fade-left"
           data-aos-delay="500"
           data-aos-duration="1000"
-          data-aos-offset="770"
+          data-aos-offset="720"
           class="text-ghost text-3xl mb-4 md:text-4xl 2xl:text-5xl font-bold font-nunitosans"
         >
           My Experience
@@ -15,7 +15,7 @@
           data-aos="fade-left"
           data-aos-delay="800"
           data-aos-duration="1000"
-          data-aos-offset="770"
+          data-aos-offset="730"
           class="text-lg 2xl:text-xl text-ghost font-pops"
         >
           This is some of my experience during my time in the web development
@@ -76,7 +76,7 @@
       :src="circle"
       data-aos="fade-right"
       data-aos-delay="700"
-      data-aos-offset="900"
+      data-aos-offset="800"
       data-aos-duration="1000"
       data-aos-easing="ease-in-out"
       alt="circle"
@@ -95,7 +95,7 @@ const projects = [
       "I have experience working as a freelance web developer where I assist clients in transforming their designs from Figma into fully functional websites. This experience has taught me the importance of precision and patience in achieving stunning designs.",
     aosDelay: 400,
     aosDuration: 1000,
-    aosOffset: 770,
+    aosOffset: 730,
     aosEasing: "ease-in-out",
   },
   {
@@ -105,7 +105,7 @@ const projects = [
       "I have experience working as a freelance web developer where I assist clients in transforming their designs from Figma into fully functional websites. This experience has taught me the importance of precision and patience in achieving stunning designs.",
     aosDelay: 800,
     aosDuration: 1000,
-    aosOffset: 770,
+    aosOffset: 730,
     aosEasing: "ease-in-out",
   },
   {
@@ -115,7 +115,7 @@ const projects = [
       "Currently, I am working as an intern in an independent business owned by my father. In this role, I have been involved in various projects, including creating landing pages for different purposes and developing features within them.",
     aosDelay: 1200,
     aosDuration: 1000,
-    aosOffset: 770,
+    aosOffset: 730,
     aosEasing: "ease-in-out",
   },
 ];

@@ -3,7 +3,7 @@
     <div
       data-aos="fade-left"
       data-aos-delay="700"
-      data-aos-offset="1000"
+      data-aos-offset="900"
       data-aos-duration="1000"
     >
       <img
@@ -21,7 +21,7 @@
             data-aos="fade-right"
             data-aos-delay="300"
             data-aos-duration="1000"
-            data-aos-offset="1000"
+            data-aos-offset="900"
             class="text-ghost text-3xl mb-7 md:text-4xl 2xl:text-5xl font-bold font-nunitosans"
           >
             Contact me
@@ -30,7 +30,7 @@
             data-aos="fade-right"
             data-aos-delay="900"
             data-aos-duration="1000"
-            data-aos-offset="1000"
+            data-aos-offset="900"
             class="text-lg 2xl:text-xl md:max-w-lg text-ghost font-pops mb-8"
           >
             Feel free to contact me if you're interested in what I have to
@@ -74,7 +74,7 @@
             data-aos="fade-right"
             data-aos-delay="500"
             data-aos-duration="1000"
-            data-aos-offset="1000"
+            data-aos-offset="900"
             data-aos-easing="ease-in-out"
             class="text-ghost text-3xl mb-7 md:text-4xl 2xl:text-5xl font-bold font-nunitosans"
           >
@@ -92,7 +92,7 @@
                 data-aos="fade-right"
                 data-aos-delay="700"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
               />
               <input
@@ -105,7 +105,7 @@
                 data-aos="fade-right"
                 data-aos-delay="800"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
               />
               <input
@@ -118,7 +118,7 @@
                 data-aos="fade-right"
                 data-aos-delay="900"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
               />
               <input
@@ -131,7 +131,7 @@
                 data-aos="fade-right"
                 data-aos-delay="1000"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
               />
               <textarea
@@ -144,7 +144,7 @@
                 data-aos="fade-right"
                 data-aos-delay="1100"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
                 class="bg-transparent md:col-span-2 mb-8 border-gray-500 border-[1px] p-6 text-ghost placeholder:text-gray-500 rounded-lg"
               ></textarea>
@@ -152,7 +152,7 @@
                 data-aos="fade-right"
                 data-aos-delay="1200"
                 data-aos-duration="1000"
-                data-aos-offset="1000"
+                data-aos-offset="900"
                 data-aos-easing="ease-in-out"
               >
                 <button
@@ -180,7 +180,7 @@ import dot from "../assets/dot.png";
 import dot2 from "../assets/dot2.png";
 import axios from "axios";
 import { ref } from "vue";
-import gif from "../assets/8bit.gif";
+import gif from "../assets/nari rat.gif";
 const contacts = [
   {
     iconClasses: "fa-brands fa-whatsapp text-ghost text-xl",
@@ -188,7 +188,7 @@ const contacts = [
     value: "+62 821-2406-3463",
     aosDelay: 1300,
     aosDuration: 1000,
-    aosOffset: 1000,
+    aosOffset: 900,
     aosEasing: "ease-in-out",
   },
   {
@@ -197,7 +197,7 @@ const contacts = [
     value: "hioakbar1@gmail.com",
     aosDelay: 1500,
     aosDuration: 1000,
-    aosOffset: 1000,
+    aosOffset: 900,
     aosEasing: "ease-in-out",
   },
   {
@@ -206,7 +206,7 @@ const contacts = [
     value: "Tangerang, Jl. Merdeka, Indonesia.",
     aosDelay: 1700,
     aosDuration: 1000,
-    aosOffset: 1000,
+    aosOffset: 900,
     aosEasing: "ease-in-out",
   },
 ];

@@ -6,7 +6,7 @@
       <div
         v-for="item in items"
         :key="item.title"
-        class="px-8 lg:px-5 w-full md:w-1/2 lg:w-1/4 mb-14"
+        class="px-5 xl:px-9 w-full md:w-1/2 lg:w-1/4 mb-14"
         data-aos="fade-right"
         data-aos-offset="250"
         :data-aos-delay="item.aosDelay"

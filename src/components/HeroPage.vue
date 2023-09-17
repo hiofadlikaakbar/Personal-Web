@@ -1,5 +1,7 @@
 <template>
-  <div class="container px-8 md:px-6 lg:px-9 mx-auto pb-8 md:pb-14 lg:pb-28">
+  <div
+    class="container px-8 md:px-5 lg:px-8 2xl:px-12 mx-auto pb-8 md:pb-14 lg:pb-28"
+  >
     <div
       class="flex-col md:flex md:flex-row md:gap-14 items-center justify-between"
     >
@@ -37,9 +39,10 @@
           data-aos-easing="ease-in-out"
           class="text-base font-pops text-ghost lg:text-md xl:text-lg xl:leading-loose leading-8 mb-10 max-w-xl"
         >
-          I'm from Indonesia, as a software engineer and frontend developer. I
-          specialize in creating user-friendly interfaces that not only look
-          fantastic but also provide an exceptional user experience.
+          I am a software engineer and frontend developer from Indonesia,
+          specializing in creating user-friendly interfaces using the MEVN
+          stacks. I focus on designing interfaces that not only look fantastic
+          but also provide an exceptional user experience.
         </p>
         <div
           data-aos="fade-right"

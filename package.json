@@ -9,13 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@formkit/auto-animate": "^1.0.0-beta.6",
     "aos": "^2.3.4",
     "axios": "^1.4.0",
     "scroll-into-view-if-needed": "^3.0.10",
     "tailwind-scrollbar": "^3.0.4",
-    "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue": "^3.2.47"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
