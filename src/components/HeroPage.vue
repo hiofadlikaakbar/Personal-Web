@@ -11,7 +11,7 @@
           data-aos-delay="500"
           data-aos-duration="500"
           data-aos-easing="ease-in-out"
-          class="text-redcake text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold mb-2"
+          class="text-redcake text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold mb-3"
         >
           Hi, i'am
         </h1>
@@ -40,7 +40,7 @@
           class="text-base font-pops text-ghost lg:text-md xl:text-lg xl:leading-loose leading-8 mb-10 max-w-xl"
         >
           I am a software engineer and frontend developer from Indonesia,
-          specializing in creating user-friendly interfaces using the MEVN
+          specializing in creating user friendly interfaces using the MEVN
           stacks. I focus on designing interfaces that not only look fantastic
           but also provide an exceptional user experience.
         </p>

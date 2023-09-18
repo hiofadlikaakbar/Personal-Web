@@ -76,7 +76,7 @@
       :src="circle"
       data-aos="fade-right"
       data-aos-delay="700"
-      data-aos-offset="800"
+      data-aos-offset="730"
       data-aos-duration="1000"
       data-aos-easing="ease-in-out"
       alt="circle"
